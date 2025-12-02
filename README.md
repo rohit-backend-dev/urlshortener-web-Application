@@ -140,6 +140,7 @@ POST /api/shorten
 **Rohit Kumar Mishra**
 
 📧 Email: `rohitmishra729595@gmail.com`
-🔗 LinkedIn: `https://www.linkedin.com/in/rohit-backenddev/`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rohit-backenddev/)
+
 
 ---
