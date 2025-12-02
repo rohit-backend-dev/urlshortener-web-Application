@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.action-btn {
+  @apply px-4 py-2 rounded-lg text-white flex items-center gap-2 shadow transition-all active:scale-95;
+}
